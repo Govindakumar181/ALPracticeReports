@@ -1,0 +1,24 @@
+{
+  "id": "48656ec9-57cc-4383-949c-53ddd70525db",
+  "name": "ALPracticeReports",
+  "publisher": "Govinda Kumar",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "runtime": "7.0"
+}
