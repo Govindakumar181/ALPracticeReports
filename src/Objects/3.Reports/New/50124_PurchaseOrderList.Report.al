@@ -39,6 +39,11 @@ report 50124 "New Purchase Report"
 
             }
 
+            column(Pay_to_Name; "Pay-to Name")
+            {
+
+            }
+
             trigger OnPreDataItem()
             begin
                 if (FromDate > 0D) AND (ToDate > 0D) then begin
