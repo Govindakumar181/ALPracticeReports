@@ -43,6 +43,10 @@ report 50124 "New Purchase Report"
             {
 
             }
+            column(Ship_to_Name; "Ship-to Name")
+            {
+
+            }
 
             trigger OnPreDataItem()
             begin
